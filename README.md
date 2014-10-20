@@ -6,9 +6,11 @@
 * **Instructor:** Phil Duxbury ([duxbury@pa.msu.edu](mailto:duxbury@pa.msu.edu))
 * **TAs:** Connor Glosser ([glosser1@msu.edu](mailto:glosser1@msu.edu)), Jenni Portman ([jenniportman@gmail.com](mailto:jenniportman@gmail.com)) 
 * **Need help?**
-   * Look through and create [issues](https://github.com/ICCP/syllabus/issues)
-   * Office Hours during [Hacker Hours](http://hackerhours.org/) (see [Meetup page](http://www.meetup.com/hackerhours/events/calendar/) for schedule)
-   * [Email](mailto:alf9@nyu.edu) for 1-on-1 help, or to set up a time to meet
+   * Ask (& answer!) questions on [Piazza](https://piazza.com)
+   * Office Hours
+      * Connor:
+      * Jenni:
+   * Email for 1-on-1 help, or to set up a time to meet
 
 ## Course Description
 
