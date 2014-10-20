@@ -6,14 +6,14 @@
 * **Instructor:** Phil Duxbury ([duxbury@pa.msu.edu](mailto:duxbury@pa.msu.edu))
 * **TAs:** Connor Glosser ([glosser1@msu.edu](mailto:glosser1@msu.edu)), Jenni Portman ([jenniportman@gmail.com](mailto:jenniportman@gmail.com)) 
 * **Need help?**
-   * Ask (& answer!) questions on [Piazza](https://piazza.com)
-   * Office Hours
-      * Connor:
-      * Jenni:
-   * Email for 1-on-1 help, or to set up a time to meet
+  * Ask (& answer!) questions on [Piazza](https://piazza.com)
+  * Office Hours
+    * Connor:
+    * Jenni:
+  * Email for 1-on-1 help, or to set up a time to meet
 * **Exchange weeks:**
-   * MSU: February 2nd - February 6th
-   * TU Delft: May 11 - May 15
+  * @MSU: February 2nd - February 6th
+  * @TU Delft: May 11 - May 15
 
 ## Course Description
 
@@ -41,15 +41,13 @@ These won't be enforced by the instructor, but you'll likely find the course dif
 
 ### Workflow
 
-1. Fork the repository for the exercise/project (found under [github.com/advanced-js](https://github.com/advanced-js))
+1. Fork the repository for the exercise/project (found under [github.com/advanced-js](https://github.com/ICCP))
 1. Clone the repository to your computer
-1. Open the `index.html` file in a browser and open the Developer Tools
-1. Modify the files to complete your solution
-1. Refresh the `index.html` page to see the results, and repeat
+1. Modify the seed files as desired to work on your solution
 1. Make sure all of your code is committed
 1. Push/sync up to GitHub
-1. [Create a pull request](https://help.github.com/articles/creating-a-pull-request) on the original repository by the due time (generally the start of the following class)
-1. You can continue to push fixes and improvements until the close date (listed in Classes) – just add a comment in the pull request to let us know it's been updated.
+1. [Create a pull request](https://help.github.com/articles/creating-a-pull-request) on the original repository by the due date to submit your assignment
+  * You can continue to push fixes and improvements until the close date (listed in Classes) – just add a comment in the pull request to let us know it's been updated.
 
 ### Requirements
 
@@ -134,7 +132,7 @@ This class assumes you are confident with this material, but in case you need a 
 
 ## Statements on Plagiarism
 
-From MSU's [Academic Integrity](https://www.msu.edu/unit/ombud/academic-integrity/plagiarism-policy.html) page:
+From MSU's statement on [Academic Integrity](https://www.msu.edu/unit/ombud/academic-integrity/plagiarism-policy.html):
 
 >Plagiarism (from the Latin plagiarius, an abductor, and plagiare, to steal) is defined by the White House Office of Science and Technology Policy on Misconduct in Research as “ . . . the appropriation of another person’s ideas, processes, results or words without giving appropriate credit.” At MSU, General Student Regulation 1.00 states in part that “no student shall claim or submit the academic work of another as one’s own.” (For the complete regulation, see Protection of Scholarship and Grades.) Plagiarism may be accidental or blatant and there is even self-plagiarism.  However, students are held to the same standards whether or not they knew they were plagiarizing or whether or not they were plagiarizing themselves or someone else.
 
@@ -146,4 +144,4 @@ Please respect the terms of use and/or license of any code you find, and if you 
 
 ### License
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">work</span> and all other materials under https://github.com/advanced-js are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">work</span> and all other materials under https://github.com/advanced-js are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. Adopted from the advanced-js course syllabus found [here](https://github.com/advanced-js/syllabus)
