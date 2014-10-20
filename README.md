@@ -11,12 +11,13 @@
       * Connor:
       * Jenni:
    * Email for 1-on-1 help, or to set up a time to meet
+* **Exchange weeks:**
+   * MSU: February 2nd - February 6th
+   * TU Delft: May 11 - May 15
 
 ## Course Description
 
-Learn best practices in JavaScript in this intensive, five-session course. Topics include data encapsulation, closures, binding, inheritance, and name spacing. Discover some of the lesser-known, yet useful, features of the language, such as how to debug JavaScript problems on different browsers and improve performance. Create interactive webpages using third-party JavaScript libraries.
-
-Computers are provided in the lab, though you are encouraged to bring a laptop for in-class exercises.
+ICCP develops students’ ability to write computer programs for simulating many-body classical and quantum physics systems. Groups choose either Fortran 90 or C++ as their coding language. The course is project based and Socratic in style. Students are encouraged to think of their own solutions to setting up the simulation problems and coding them. All students do the same warm up project (MC for and Ising model) and the same first joint project which involves writing a molecular dynamics code for simulation of Argon. The second project involves writing a Monte Carlo code and students may choose between simulation of polymer conformations, quantum Monte Carlo or cluster Monte Carlo. The third and/or fourth projects may be chosen from many possibilities, and can involve suggestions by the students. Each group works on a different project and makes a presentation on the last day of the course. Students from MSU receive $300 to assist with their air ticket to the Netherlands. Often MSU graduate students are able to cover the rest of their airfare from either their research group, from the College of Natural Science or from the Graduate School. The hotel costs and a per diem of about 20 euros are provided by Delft University of Technology while students are visiting Delft to participate in the course.
 
 ## Prerequisites
 
@@ -25,28 +26,18 @@ Computers are provided in the lab, though you are encouraged to bring a laptop f
 * Understanding of quantum and statistical mechanics at the junior/senior
   undergraduate level
 
-These won't be enforced by the instructor, but you will be pretty lost without understanding those concepts.
+These won't be enforced by the instructor, but you'll likely find the course difficult without understanding them.
 
 ## Course Overview
 
-We will dive into the nuances of JavaScript, how prototypal inheritance compares to classical inheritance, and how this can be used to build dynamic and complex web applications.  Modern tools like jQuery and BackboneJS will be discussed, but students will learn the building blocks of these frameworks and after this course be able to understand what is happening under the hood.  The focus will be on development for browsers, though most applies to other systems like Node.js, Phonegap, etc.  Topics covered include:
-
-* Encapsulation, closures and scope
-* Classical vs. prototypal inheritance
-* The event loop
-* AJAX and JSONP
-    * local
-    * remote (e.g. Foursquare)
-* Creating MVC-style models (a'la Backbone.js) from scratch
-* Test- and Pseudocode-Driven Development
-
-Topics will be demonstrated through live-code examples/slides, available at [advanced-js.github.io/deck](http://advanced-js.github.io/deck/).  Additional exercises will completed in-class.
-
-See [this interview](http://masterstreet.wordpress.com/2013/09/05/interview-with-aidan-feldman-instructor-at-nyu-scps/) for more background.
+* **Project 0:** Ising model
+* **Project 1:** Molecular dynamics
+* **Project 2:** Advanced Monte Carlo
+* **Project 3:** Students' choice
 
 ## Homework/Projects
 
-All assignments are listed within the [Course Outline](#course-outline).
+
 
 ### Workflow
 
@@ -58,13 +49,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 1. Make sure all of your code is committed
 1. Push/sync up to GitHub
 1. [Create a pull request](https://help.github.com/articles/creating-a-pull-request) on the original repository by the due time (generally the start of the following class)
-1. You can continue to push fixes and improvements until the close date (listed in Classes) – just add a comment in the pull request to let me know it's been updated.
-
-When the pull request is created, you should see a message saying that "the Travis CI build is in progress" – this means that your solution is being automatically checked for syntax errors.  If this "build" ends up failing (which will show a red "X"), click through the "details" link and scroll to the bottom to see what the errors were.  Per the [requirements](#requirements) below, please fix the issues and push up the changes.
-
-Feedback will be given in the pull request, so please respond with your thoughts and questions!  You are welcome to open the pull request as the work is still in-progress if you are stuck and want to ask a question – just mention `@afeld` with the question to make sure I know to look at it sooner.
-
-Note that your solution will also be live at `http://USERNAME.github.io/EXERCISE`.  For exercises with multiple levels/versions, leave a new comment in the pull request saying "Level X finished!" before pushing commits for the next level.
+1. You can continue to push fixes and improvements until the close date (listed in Classes) – just add a comment in the pull request to let us know it's been updated.
 
 ### Requirements
 
