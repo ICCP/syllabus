@@ -18,10 +18,10 @@ Computers are provided in the lab, though you are encouraged to bring a laptop f
 
 ## Prerequisites
 
-* [INFO1-CE9755 - JavaScript](http://scps.nyu.edu/content/scps/academics/course_detail.html?id=INFO1-CE9755) ([syllabus](http://samsultan.com/javascript)) or equivalent
-* Understanding of variables, data types, control flow, and basic function usage in JavaScript - see [Beginner Materials](#beginner-materials)
-* Strong intermediate knowledge of HTML, and at least basics of CSS
-* Basic jQuery knowledge (DOM interaction) is a plus
+* Basic programming skills in a language like Fortran, C, or C++ 
+* Working understanding of numerical methods
+* Understanding of quantum and statistical mechanics at the junior/senior
+  undergraduate level
 
 These won't be enforced by the instructor, but you will be pretty lost without understanding those concepts.
 
