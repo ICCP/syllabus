@@ -31,9 +31,16 @@ These won't be enforced by the instructor, but you'll likely find the course dif
 ## Course Overview
 
 * **Project 0:** Ising model
+  Introduction to Fortran. Investigation of ferromagnetic dependence on temperature. The Metropolis algorithm. Lattices & boundary conditions.
 * **Project 1:** Molecular dynamics
+  Numerical integration of EoM for a model of argon gas. Minimum image criterion and periodic boundary conditions in a continuum. Free energy, pair correlation, and
+  temperature calculatons. Data blocking and energy fluctuations.
 * **Project 2:** Advanced Monte Carlo
+  * Ising model revisit: the Wolff algorithm
+  * Polymer conformations: the Rosenbluth algorithm(s)
+  * Variational Monte Carlo: the H2 ground state
 * **Project 3:** Students' choice
+  
 
 ## Homework/Projects
 
