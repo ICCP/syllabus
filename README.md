@@ -55,13 +55,11 @@ etc.) and should contain about five or six pages. Please remember to include all
 
 ### Workflow
 
-1. Fork the repository for the exercise/project (found under [github.com/advanced-js](https://github.com/ICCP))
-1. Clone the repository to your computer
-1. Modify the seed files as desired to work on your solution
-1. Make sure all of your code is committed
-1. Push/sync up to GitHub
-1. [Create a pull request](https://help.github.com/articles/creating-a-pull-request) on the original repository by the due date to submit your assignment
-  * You can continue to push fixes and improvements until the close date (listed in Classes) – just add a comment in the pull request to let us know it's been updated.
+1. To start, [**fork** the repository][forking].
+1. [**Clone**][ref-clone] the repository to your computer.
+1. Modify the files and [**commit**][ref-commit] changes to complete your solution.
+1. [**Push**][ref-push]/sync the changes up to GitHub.
+1. [Create a **pull request**][pull-request] on the original repository to turn in the assignment. You can continue to submit changes after you create your pull request -- simply commmit and push them.
 
 ## Pairing tips
 
