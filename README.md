@@ -55,11 +55,11 @@ etc.) and should contain about five or six pages. Please remember to include all
 
 ### Workflow
 
-1. To start, [**fork** the repository][forking].
-1. [**Clone**][ref-clone] the repository to your computer.
-1. Modify the files and [**commit**][ref-commit] changes to complete your solution.
-1. [**Push**][ref-push]/sync the changes up to GitHub.
-1. [Create a **pull request**][pull-request] on the original repository to turn in the assignment. You can continue to submit changes after you create your pull request -- simply commmit and push them.
+1. To start, [**fork** the repository](https://guides.github.com/activities/forking/).
+1. [**Clone**](http://gitref.org/creating/#clone) the repository to your computer.
+1. Modify the files and [**commit**](http://gitref.org/basic/#commit) changes to complete your solution.
+1. [**Push**](http://gitref.org/remotes/#push)/sync the changes up to GitHub.
+1. [Create a **pull request**](https://help.github.com/articles/creating-a-pull-request) on the original repository to turn in the assignment. You can continue to submit changes after you create your pull request -- simply commmit and push them.
 
 ## Pairing tips
 
@@ -111,3 +111,5 @@ Of course you're free to collaborate with others while working on your projects-
 ### License
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">work</span> and all other materials under https://github.com/advanced-js are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. Adopted from the advanced-js course syllabus found [here](https://github.com/advanced-js/syllabus).
+
+
