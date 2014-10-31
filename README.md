@@ -40,7 +40,7 @@ These won't be enforced by the instructor, but you'll likely find the course dif
 * **Project 2:** Advanced Monte Carlo
   * Ising model revisit: the Wolff algorithm
   * Polymer conformations: the Rosenbluth algorithm(s)
-  * Variational Monte Carlo: the H2 ground state
+  * Variational Monte Carlo: the He/H2 ground states
 * **Project 3:** Students' choice
   
 ## Homework/projects
