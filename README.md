@@ -4,8 +4,8 @@
 * **Instructor:** Phil Duxbury ([duxbury@pa.msu.edu](mailto:duxbury@pa.msu.edu))
 * **TAs:** Connor Glosser ([glosser1@msu.edu](mailto:glosser1@msu.edu)), Jenni Portman ([jenniportman@gmail.com](mailto:jenniportman@gmail.com)) 
 * **Need help?**
-  * Ask (& answer!) questions on [Piazza](https://piazza.com)
-  * Office Hours
+  * Open an issue ticket for the project's repository
+  * Virtual office hours
     * Connor:
     * Jenni:
   * Email for 1-on-1 help, or to set up a time to meet
