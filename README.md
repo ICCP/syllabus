@@ -48,18 +48,20 @@ These won't be enforced by the instructor, but you'll likely find the course dif
 ### Requirements
 
 To submit a completed project, simply issue a [pull request](https://help.github.com/articles/creating-a-pull-request/) on the original repository before the due date. Your branch should contain:
+
 1. The source code you developed to solve the problem in the `src/` directory and,
 1. A written report of your findings in the `writeup/` directory, typeset in LaTeX
+
 Each project repository contains a skeleton LaTeX file for you to fill in with your report. Your report should follow the style of a research paper (abstract, intro,
 etc.) and should contain about five or six pages. Please remember to include all figures in your submission branch!
 
 ### Workflow
 
-1. To start, [**fork** the repository](https://guides.github.com/activities/forking/).
+1. To start, [**fork** a project repository](https://guides.github.com/activities/forking/).
 1. [**Clone**](http://gitref.org/creating/#clone) the repository to your computer.
 1. Modify the files and [**commit**](http://gitref.org/basic/#commit) changes to complete your solution.
 1. [**Push**](http://gitref.org/remotes/#push)/sync the changes up to GitHub.
-1. [Create a **pull request**](https://help.github.com/articles/creating-a-pull-request) on the original repository to turn in the assignment. You can continue to submit changes after you create your pull request -- simply commmit and push them.
+1. [Create a **pull request**](https://help.github.com/articles/creating-a-pull-request) on the original project repository to turn in the assignment. You can continue to submit changes after you create your pull request -- simply commmit and push them.
 
 ## Pairing tips
 
