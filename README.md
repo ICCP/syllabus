@@ -38,8 +38,10 @@ These won't be enforced by the instructor, but you'll likely find the course dif
 * **Project 1:** Molecular dynamics
   * Numerical integration of EoM for a model of argon gas. Minimum image criterion and periodic boundary conditions in a continuum. Free energy, pair correlation, and temperature calculatons. Data blocking and energy fluctuations.
 * **Project 2:** Advanced Monte Carlo
-  * Ising model revisit: the Wolff algorithm
-  * Polymer conformations: the Rosenbluth algorithm(s)
+  * Ising model revisit: the Wolff algorithm, critical phenomena, and data
+    structures
+  * Polymer conformations: the Rosenbluth algorithm(s), convergence, on- and
+    off-lattice models
   * Variational Monte Carlo: the He/H2 ground states
 * **Project 3:** Students' choice
   
