@@ -78,7 +78,7 @@ etc.) and should contain about five or six pages. Please remember to include all
 ### Required reading
 
 * [Computational Physics](http://www.amazon.com/Computational-Physics-Jos-Thijssen/dp/0521833469)
-* [The Coding Notes](https://github.com/ICCP/coding-notes)
+* [The Coding Notes](https://github.com/ICCP/coding-notes/releases/download/v2014/notes.pdf)
 * [Real Programmers Don't Use Pascal](http://www.pbm.com/~lindahl/real.programmers.html)
 
 ### Beginner materials
