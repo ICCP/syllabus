@@ -64,7 +64,7 @@ etc.) and should contain about five or six pages. Please remember to include all
 
 ### Workflow
 
-1. To start, [**fork** a project repository](https://guides.github.com/activities/forking/).
+1. To start, [**fork**](https://guides.github.com/activities/forking/) a project repository
 1. [**Clone**](http://gitref.org/creating/#clone) the repository to your computer.
 1. Modify the files and [**commit**](http://gitref.org/basic/#commit) changes to complete your solution.
 1. [**Push**](http://gitref.org/remotes/#push)/sync the changes up to GitHub.
