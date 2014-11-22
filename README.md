@@ -33,17 +33,21 @@ These won't be enforced by the instructor, but you'll likely find the course dif
 
 ## Course overview
 
-* **Project 0:** Ising model (due: Friday, January 30, 2014)
+* **Project 0:** Ising model *(due: Friday, January 30, 2014)*
   * Introduction to Fortran. Investigation of ferromagnetic dependence on temperature. The Metropolis algorithm. Lattices & boundary conditions.
-* **Project 1:** Molecular dynamics (due: Sunday, March 1, 2014)
+* **Project 1:** Molecular dynamics *(due: Sunday, March 1, 2014)*
   * Numerical integration of EoM for a model of argon gas. Minimum image criterion and periodic boundary conditions in a continuum. Free energy, pair correlation, and temperature calculatons. Data blocking and energy fluctuations.
-* **Project 2:** Advanced Monte Carlo (due: Sunday, March 29, 2014)
+* **Project 2:** Advanced Monte Carlo *(due: Sunday, March 29, 2014)*
   * Ising model revisit: the Wolff algorithm, critical phenomena, and data
     structures
   * Polymer conformations: the Rosenbluth algorithm(s), convergence, on- and
     off-lattice models
   * Variational Monte Carlo: the He/H2 ground states
-* **Project 3:** Students' choice (due: Sunday, May 3, 2014)
+* **Project 3:** Students' choice *(due: Sunday, May 3, 2014)*
+  * Lattice Boltzmann
+  * Tight-binding
+  * Percolation
+  * etc.
   
 ## Homework/projects
 
