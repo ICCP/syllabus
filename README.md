@@ -47,6 +47,7 @@ These won't be enforced by the instructor, but you'll likely find the course dif
   * Lattice Boltzmann
   * Tight-binding
   * Percolation
+  * DTFD quantum mechanics
   * etc.
   
 ## Homework/projects
