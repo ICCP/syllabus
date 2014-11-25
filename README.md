@@ -105,7 +105,7 @@ In case you need a refresher...
 * Git and GitHub
     * [Official GitHub Help](https://help.github.com/)
     * [Recommended resources](https://help.github.com/articles/what-are-other-good-resources-for-learning-git-and-github)
-    * [Git: The simple guide](http://rogerdudler.github.io/git-guide/)
+    * Git: The simple guide [(EN)](http://rogerdudler.github.io/git-guide/)/[(NL)](http://rogerdudler.github.io/git-guide/index.nl.html)
 * GitHub Pages
     * [Official site](http://pages.github.com/)
     * [Thinkful guide](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
