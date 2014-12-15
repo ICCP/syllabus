@@ -17,13 +17,12 @@
 * [Contents](#contents)
 * [Course description](#course-description)
 * [Prerequisites](#prerequisites)
-* [Grading](#grading)
 * [Course overview](#course-overview)
+* [Grading](#grading)
 * [Homework/projects](#homeworkprojects)
   * [Requirements](#requirements)
   * [Workflow](#workflow)
   * [Submission](#submission)
-* [Pairing tips](#pairing-tips)
 * [External links](#external-links)
   * [Required reading](#required-reading)
   * [Beginner materials](#beginner-materials)
@@ -45,11 +44,6 @@ ICCP develops students’ ability to write computer programs for simulating many
 
 These won't be enforced by the instructor, but you'll likely find the course difficult without understanding them.
 
-## Grading
-
-* Projects & reports – 75%
-* Final exam – 25%
-
 ## Course overview
 
 * **Project 0:** Ising model *(due: Friday, January 30, 2014)*
@@ -68,7 +62,12 @@ These won't be enforced by the instructor, but you'll likely find the course dif
   * Percolation
   * DTFD quantum mechanics
   * etc.
-  
+
+## Grading
+
+* Projects & reports – 75%
+* Final exam – 25%
+
 ## Homework/projects
 
 ### Requirements
