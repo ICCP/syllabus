@@ -49,7 +49,7 @@ These won't be enforced by the instructor, but you'll likely find the course dif
 * **Project 0:** Ising model *(due: Friday, January 30, 2014)*
   * Introduction to Fortran. Investigation of ferromagnetic dependence on temperature. The Metropolis algorithm. Lattices & boundary conditions.
 * **Project 1:** Molecular dynamics *(due: Sunday, March 1, 2014)*
-  * Numerical integration of EoM for a model of argon gas. Minimum image criterion and periodic boundary conditions in a continuum. Free energy, pair correlation, and temperature calculatons. Data blocking and energy fluctuations.
+  * Numerical integration of EoM for a model of argon gas. Minimum image criterion and periodic boundary conditions in a continuum. Free energy, pair correlation, and temperature calculations. Data blocking and energy fluctuations.
 * **Project 2:** Advanced Monte Carlo *(due: Sunday, March 29, 2014)*
   * Ising model revisit: the Wolff algorithm, critical phenomena, and data
     structures
@@ -92,16 +92,16 @@ etc.) and should contain about five or six pages. Please remember to include all
 Your pull request should contain both your project and LaTeX source code in separate subdirectories; e.g.
 
 ```
-molecular-dynamics
-├── report
-│   ├── figures
+molecular-dynamics/
+├── report/
+│   ├── figures/
 │   │   ├── energy.pdf
 │   │   └── pair_corr.pdf
 │   └── md_report.tex
-└── src
+└── src/
     ├── Makefile
     ├── molecular_dynamics.f90
-    └── parameteres.f90
+    └── parameters.f90
 ```
 Please **do not** include executables or compiled PDFs (we need image PDFs to produce your document, so you should absolutely include them!) We will compile both your program and your report on the HPCC, so please test everything there before submitting.
 
