@@ -89,7 +89,7 @@ etc.) and should contain about five or six pages. Please remember to include all
 1. [Create a **pull request**](https://help.github.com/articles/creating-a-pull-request) on the original project repository to turn in the assignment. You can continue to submit changes after you create your pull request -- simply commmit and push them.
 
 ### Submission
-Your pull request should contain subdirectories for both your source code and your typeset report. E.g.,
+Your pull request should contain both your project and LaTeX source code in separate subdirectories; e.g.
 
 ```
 molecular-dynamics
@@ -103,7 +103,7 @@ molecular-dynamics
     ├── molecular_dynamics.f90
     └── parameteres.f90
 ```
-Please **do not** include binaries or compiled PDFs (we need image PDFs to produce your document, so you should absolutely include them!) We will compile both your program and your report on the HPCC, so please test everything there before submitting.
+Please **do not** include executables or compiled PDFs (we need image PDFs to produce your document, so you should absolutely include them!) We will compile both your program and your report on the HPCC, so please test everything there before submitting.
 
 ## External links
 
