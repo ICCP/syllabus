@@ -10,26 +10,28 @@
     * Jenni:
   * Email for 1-on-1 help, or to set up a time to meet
 * **Exchange weeks:**
-  * @MSU: February 2nd - February 6th
+  * @MSU: February 2 - February 6
   * @TU Delft: May 11 - May 15
 
-## Contents
-- [ICCP syllabus](#)
-	- [Course description](#)
-	- [Prerequisites](#)
-	- [Grading](#)
-	- [Course overview](#)
-	- [Homework/projects](#)
-		- [Requirements](#)
-		- [Workflow](#)
-	- [Pairing tips](#)
-	- [External links](#)
-		- [Required reading](#)
-		- [Beginner materials](#)
-		- [Tools](#)
-		- [GitHub help](#)
-		- [Statements on Plagiarism](#)
-		- [License](#)
+Table of Contents
+=================
+  * [ICCP syllabus](#iccp-syllabus)
+    * [Contents](#contents)
+    * [Course description](#course-description)
+    * [Prerequisites](#prerequisites)
+    * [Grading](#grading)
+    * [Course overview](#course-overview)
+    * [Homework/projects](#homeworkprojects)
+      * [Requirements](#requirements)
+      * [Workflow](#workflow)
+    * [Pairing tips](#pairing-tips)
+    * [External links](#external-links)
+      * [Required reading](#required-reading)
+      * [Beginner materials](#beginner-materials)
+      * [Tools](#tools)
+      * [GitHub help](#github-help)
+      * [Statements on Plagiarism](#statements-on-plagiarism)
+      * [License](#license)
 
 ## Course description
 
