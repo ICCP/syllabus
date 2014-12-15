@@ -91,18 +91,19 @@ etc.) and should contain about five or six pages. Please remember to include all
 
 ### Submission
 Your pull request should contain subdirectories for both your source code and your typeset report. E.g.,
-```molecular-dynamics/
-```    src/
-```        Makefile
-```        molecular_dynamics.f90
-```        parameters.f90
-```    report/
-```        md_report.tex
-```        figures/
-```            energy.pdf
-```            fig2.pdf
-
-Please **do not** include binaries or compiled PDFs - we will compile both your program and your report on the HPCC, so please test everything there before submitting.
+```
+molecular-dynamics/
+  src/
+    Makefile
+    molecular_dynamics.f90
+    parameters.f90
+  report/
+    md_report.tex
+    figures/
+      energy.pdf
+      fig2.pdf
+```
+Please **do not** include binaries or compiled PDFs (we need image PDFs to produce your document, so you should absolutely include them) - we will compile both your program and your report on the HPCC, so please test everything there before submitting.
 
 ## External links
 
