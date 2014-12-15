@@ -102,7 +102,7 @@ molecular-dynamics/
       energy.pdf
       fig2.pdf
 ```
-Please **do not** include binaries or compiled PDFs (we need image PDFs to produce your document, so you should absolutely include them) - we will compile both your program and your report on the HPCC, so please test everything there before submitting.
+Please **do not** include binaries or compiled PDFs (we need image PDFs to produce your document, so you should absolutely include them!) We will compile both your program and your report on the HPCC, so please test everything there before submitting.
 
 ## External links
 
