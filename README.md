@@ -13,25 +13,24 @@
   * @MSU: February 2 - February 6
   * @TU Delft: May 11 - May 15
 
-Table of Contents
-=================
-  * [ICCP syllabus](#iccp-syllabus)
-    * [Contents](#contents)
-    * [Course description](#course-description)
-    * [Prerequisites](#prerequisites)
-    * [Grading](#grading)
-    * [Course overview](#course-overview)
-    * [Homework/projects](#homeworkprojects)
-      * [Requirements](#requirements)
-      * [Workflow](#workflow)
-    * [Pairing tips](#pairing-tips)
-    * [External links](#external-links)
-      * [Required reading](#required-reading)
-      * [Beginner materials](#beginner-materials)
-      * [Tools](#tools)
-      * [GitHub help](#github-help)
-      * [Statements on Plagiarism](#statements-on-plagiarism)
-      * [License](#license)
+## Table of Contents
+* [Contents](#contents)
+* [Course description](#course-description)
+* [Prerequisites](#prerequisites)
+* [Grading](#grading)
+* [Course overview](#course-overview)
+* [Homework/projects](#homeworkprojects)
+  * [Requirements](#requirements)
+  * [Workflow](#workflow)
+  * [Submission](#submission)
+* [Pairing tips](#pairing-tips)
+* [External links](#external-links)
+  * [Required reading](#required-reading)
+  * [Beginner materials](#beginner-materials)
+  * [Tools](#tools)
+  * [GitHub help](#github-help)
+  * [Statements on Plagiarism](#statements-on-plagiarism)
+  * [License](#license)
 
 ## Course description
 
@@ -90,13 +89,20 @@ etc.) and should contain about five or six pages. Please remember to include all
 1. [**Push**](http://gitref.org/remotes/#push)/sync the changes up to GitHub.
 1. [Create a **pull request**](https://help.github.com/articles/creating-a-pull-request) on the original project repository to turn in the assignment. You can continue to submit changes after you create your pull request -- simply commmit and push them.
 
-## Pairing tips
+### Submission
+Your pull request should contain subdirectories for both your source code and your typeset report. E.g.,
+    molecular-dynamics/
+        src/
+            Makefile
+            molecular_dynamics.f90
+            parameters.f90
+        report/
+            md_report.tex
+            figures/
+                energy.pdf
+                fig2.pdf
 
-* Three people is possible, but two works best
-* Agree on an editor and environment that you're both comfortable with
-* The person who's less experienced/comfortable should have more keyboard time
-* Switch who's "driving" regularly
-* Make sure to save the code and send it (clone!) to both people
+Please **do not** include binaries or compiled PDFs - we will compile both your program and your report on the HPCC, so please test everything there before submitting.
 
 ## External links
 
