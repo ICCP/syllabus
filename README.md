@@ -103,7 +103,7 @@ molecular-dynamics/
     ├── molecular_dynamics.f90
     └── parameters.f90
 ```
-Please **do not** include executables or compiled PDFs (we need image PDFs to produce your document, so you should absolutely include them!) We will compile both your program and your report on the HPCC, so please test everything there before submitting.
+Please **do not** include executables or compiled PDFs (we need image PDFs to produce your document, so you should absolutely include them, however!) We will compile both your program and your report on the HPCC, so please test everything there before submitting.
 
 ## External links
 
