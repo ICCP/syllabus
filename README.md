@@ -18,7 +18,7 @@
 * [Course description](#course-description)
 * [Prerequisites](#prerequisites)
 * [Course overview](#course-overview)
-  *i [Due dates](#due-dates)
+  * [Due dates](#due-dates)
 * [Grading](#grading)
 * [Homework/projects](#homeworkprojects)
   * [Requirements](#requirements)
