@@ -34,7 +34,7 @@
 
 ## Course description
 
-ICCP develops students’ ability to write computer programs for simulating many-body classical and quantum physics systems. Groups choose either Fortran 90 or C++ as their coding language. The course is project based and Socratic in style. Students are encouraged to think of their own solutions to setting up the simulation problems and coding them. All students do the same warm up project (MC for and Ising model) and the same first joint project which involves writing a molecular dynamics code for simulation of Argon. The second project involves writing a Monte Carlo code and students may choose between simulation of polymer conformations, quantum Monte Carlo or cluster Monte Carlo. The third and/or fourth projects may be chosen from many possibilities, and can involve suggestions by the students. Each group works on a different project and makes a presentation on the last day of the course. Students from MSU receive $300 to assist with their air ticket to the Netherlands. Often MSU graduate students are able to cover the rest of their airfare from either their research group, from the College of Natural Science or from the Graduate School. The hotel costs and a per diem of about 20 euros are provided by Delft University of Technology while students are visiting Delft to participate in the course.
+ICCP develops students’ ability to write computer programs for simulating many-body classical and quantum physics systems. Groups choose either Fortran 90 or C++ as their coding language. The course **is** project based and Socratic in style. Students **are** encouraged to think of their own solutions to setting up the simulation problems and coding them. All students do the same warm up project (MC for and Ising model) and the same first joint project which involves writing a molecular dynamics code for simulation of Argon. The second project involves writing a Monte Carlo code and students may choose between simulation of polymer conformations, quantum Monte Carlo or cluster Monte Carlo. The third and/or fourth projects may **be** chosen from many possibilities, and can involve suggestions by the students. Each group works on a different project and makes a presentation on the last day of the course. Students from MSU receive $300 to assist with their air ticket to the Netherlands. Often MSU graduate students **are** able to cover the rest of their airfare from either their research group, from the College of Natural Science or from the Graduate School. The hotel costs and a per diem of about 20 euros **are** provided by Delft University of Technology while students **are** visiting Delft to participate in the course.
 
 ## Prerequisites
 
@@ -43,7 +43,7 @@ ICCP develops students’ ability to write computer programs for simulating many
 * Understanding of quantum and statistical mechanics at the junior/senior
   undergraduate level
 
-These won't be enforced by the instructor, but you'll likely find the course difficult without understanding them.
+These won't **be** enforced by the instructor, but you'll likely find the course difficult without understanding them.
 
 ## Course overview
 
@@ -140,7 +140,7 @@ In case you need a refresher...
 
 * Git and GitHub
     * [Official GitHub Help](https://help.github.com/)
-    * [Recommended resources](https://help.github.com/articles/what-are-other-good-resources-for-learning-git-and-github)
+    * [Recommended resources](https://help.github.com/articles/what-**are**-other-good-resources-for-learning-git-and-github)
     * Git: The simple guide [(EN)](http://rogerdudler.github.io/git-guide/)/[(NL)](http://rogerdudler.github.io/git-guide/index.nl.html)
 * GitHub Pages
     * [Official site](http://pages.github.com/)
@@ -151,11 +151,11 @@ In case you need a refresher...
 
 From MSU's statement on [Academic Integrity](https://www.msu.edu/unit/ombud/academic-integrity/plagiarism-policy.html):
 
->Plagiarism (from the Latin plagiarius, an abductor, and plagiare, to steal) is defined by the White House Office of Science and Technology Policy on Misconduct in Research as “ . . . the appropriation of another person’s ideas, processes, results or words without giving appropriate credit.” At MSU, General Student Regulation 1.00 states in part that “no student shall claim or submit the academic work of another as one’s own.” (For the complete regulation, see Protection of Scholarship and Grades.) Plagiarism may be accidental or blatant and there is even self-plagiarism.  However, students are held to the same standards whether or not they knew they were plagiarizing or whether or not they were plagiarizing themselves or someone else.
+>Plagiarism (from the Latin plagiarius, an abductor, and plagiare, to steal) **is** defined by the White House Office of Science and Technology Policy on Misconduct in Research as “ . . . the appropriation of another person’s ideas, processes, results or words without giving appropriate credit.” At MSU, General Student Regulation 1.00 states in part that “no student shall claim or submit the academic work of another as one’s own.” (For the complete regulation, see Protection of Scholarship and Grades.) Plagiarism may **be** accidental or blatant and there **is** even self-plagiarism.  However, students **are** held to the same standards whether or not they knew they **were** plagiarizing or whether or not they **were** plagiarizing themselves or someone else.
 
-Of course you're free to collaborate with others while working on your projects--that's the whole point of ICCP, after all--just give credit where credit is due. Please respect the terms of use and/or license of any code you find, and if you reimplement or duplicate an algorithm or code from elsewhere, credit the original source with an inline comment.
+Of course you're free to collaborate with others while working on your projects--that's the whole point of ICCP, after all--just give credit where credit **is** due. Please respect the terms of use and/or license of any code you find, and if you reimplement or duplicate an algorithm or code from elsewhere, credit the original source with an inline comment.
 
 ### License
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work and all other materials under https://github.com/ICCP are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a> (where applicable). Adopted from the advanced-js course syllabus found [here](https://github.com/advanced-js/syllabus).
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work and all other materials under https://github.com/ICCP **are** licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a> (where applicable). Adopted from the advanced-js course syllabus found [here](https://github.com/advanced-js/syllabus).
 
