@@ -129,6 +129,7 @@ In case you need a refresher...
 * [PHY201 – Introduction to Fortran](http://www.pa.msu.edu/~duxbury/courses/phy201_f06/phy201_home.html)
 * [Fortran 90 reference card](http://www.pa.msu.edu/~duxbury/courses/phy480/fortran90_refcard.pdf)
 * [Useful Unix commands](http://www.pa.msu.edu/~duxbury/courses/phy201_f06/UnixCommands.htm)
+* [Become an SSH ninja](http://www.xensoft.com/content/become-ssh-ninja-ssh-tips-and-tricks)
 * [The LaTeX Wikibook](http://en.wikibooks.org/wiki/LaTeX)
 
 ### Tools
