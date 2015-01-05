@@ -34,7 +34,7 @@
 
 ## Course description
 
-ICCP develops students’ ability to write computer programs for simulating many-body classical and quantum physics systems. Groups choose either Fortran 90 or C++ as their coding language. The course focuses primarily on projects and learning with Socratic style discussions. We encourage students to think of their own solutions to setting up the simulation problems and coding them. All students do the same warm up project (Monte Carlo for an Ising model) and the same first joint project which involves writing a molecular dynamics code for simulation of Argon. In the second part of the course, students work on writing an advanced Monte Carlo code choosen between simulation of polymer conformations, quantum Monte Carlo or cluster Monte Carlo. For the final project(s) students may choose from among many possibilities offered by the instructors, and may even suggest their own project should they wish to investigate other areas of interest. Each group works on a different project and makes a presentation on the last day of the course. As the course involves an exchange with TU Delft in the Netherlands, students from MSU receive $300 to assist with their air ticket. Often MSU graduate students can cover the rest of their airfare from either their research group, from the College of Natural Science or from the Graduate School. The Delft University of Technology covers hotel costs and offers a per diem of about 20 euros while students visit Delft to participate in the course.
+ICCP develops students’ ability to write computer programs for simulating many-body classical and quantum physics systems. Groups choose either Fortran 90 or C++ as their coding language. The course focuses primarily on projects and learning with Socratic style discussions. We encourage students to think of their own solutions to setting up the simulation problems and coding them. All students do the same warm up project (Monte Carlo for an Ising model) and the same first joint project which involves writing a molecular dynamics code for simulation of Argon. In the second part of the course, students work on writing an advanced Monte Carlo code chosen between simulation of polymer conformations, quantum Monte Carlo or cluster Monte Carlo. For the final project(s) students may choose from among many possibilities offered by the instructors, and may even suggest their own project should they wish to investigate other areas of interest. Each group works on a different project and makes a presentation on the last day of the course. As the course involves an exchange with TU Delft in the Netherlands, students from MSU receive $300 to assist with their air ticket. Often MSU graduate students can cover the rest of their airfare from either their research group, from the College of Natural Science or from the Graduate School. The Delft University of Technology covers hotel costs and offers a per diem of about 20 euros while students visit Delft to participate in the course.
 
 ## Prerequisites
 
@@ -95,10 +95,10 @@ etc.) and should contain about five or six pages. Please remember to include all
 1. [**Clone**](http://gitref.org/creating/#clone) the repository to your computer.
 1. Modify the files and [**commit**](http://gitref.org/basic/#commit) changes to complete your solution.
 1. [**Push**](http://gitref.org/remotes/#push)/sync the changes up to GitHub.
-1. [Create a **pull request**](https://help.github.com/articles/creating-a-pull-request) on the original project repository to turn in the assignment. You can continue to submit changes after you create your pull request -- simply commmit and push them.
+1. [Create a **pull request**](https://help.github.com/articles/creating-a-pull-request) on the original project repository to turn in the assignment. You can continue to submit changes after you create your pull request -- simply commit and push them.
 
 ### Submission
-Your pull request should contain both your project and LaTeX source code in separate subdirectories; e.g.
+Your pull request should contain both your project and LaTeX source code in separate sub directories; e.g.
 
 ```
 molecular-dynamics/
@@ -154,7 +154,7 @@ From MSU's statement on [Academic Integrity](https://www.msu.edu/unit/ombud/acad
 
 >Plagiarism (from the Latin plagiarius, an abductor, and plagiare, to steal) defined by the White House Office of Science and Technology Policy on Misconduct in Research as “ . . . the appropriation of another person’s ideas, processes, results or words without giving appropriate credit.” At MSU, General Student Regulation 1.00 states in part that “no student shall claim or submit the academic work of another as one’s own.” (For the complete regulation, see Protection of Scholarship and Grades.) Plagiarism may be accidental or blatant and there is even self-plagiarism.  However, students are held to the same standards whether or not they knew they were plagiarizing or whether or not they were plagiarizing themselves or someone else.
 
-Of course you're free to collaborate with others while working on your projects--that's the whole point of ICCP, after all--just give credit where credit is due. Please respect the terms of use and/or license of any code you find, and if you reimplement or duplicate an algorithm or code from elsewhere, credit the original source with an inline comment.
+Of course you're free to collaborate with others while working on your projects--that's the whole point of ICCP, after all--just give credit where credit is due. Please respect the terms of use and/or license of any code you find, and if you implement or duplicate an algorithm or code from elsewhere, credit the original source with an inline comment.
 
 ### License
 
