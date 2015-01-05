@@ -34,7 +34,7 @@
 
 ## Course description
 
-ICCP develops students’ ability to write computer programs for simulating many-body classical and quantum physics systems. Groups choose either Fortran 90 or C++ as their coding language. The course focuses primarily on projects and learning with Socratic style discussions. We encourage students to think of their own solutions to setting up the simulation problems and coding them. All students do the same warm up project (MC for and Ising model) and the same first joint project which involves writing a molecular dynamics code for simulation of Argon. The second project involves writing a Monte Carlo code and students may choose between simulation of polymer conformations, quantum Monte Carlo or cluster Monte Carlo. Students may choose their third and/or fourth projects from among many possibilities, and may suggest their own should they wish to investigate other areas. Each group works on a different project and makes a presentation on the last day of the course. Students from MSU receive $300 to assist with their air ticket to the Netherlands. Often MSU graduate students can to cover the rest of their airfare from either their research group, from the College of Natural Science or from the Graduate School. The Delft University of Technology covers hotel costs and offers a per diem of about 20 euros while students visit Delft to participate in the course.
+ICCP develops students’ ability to write computer programs for simulating many-body classical and quantum physics systems. Groups choose either Fortran 90 or C++ as their coding language. The course focuses primarily on projects and learning with Socratic style discussions. We encourage students to think of their own solutions to setting up the simulation problems and coding them. All students do the same warm up project (Monte Carlo for an Ising model) and the same first joint project which involves writing a molecular dynamics code for simulation of Argon. In the second part of the course, students work on writing an advanced Monte Carlo code choosen between simulation of polymer conformations, quantum Monte Carlo or cluster Monte Carlo. For the final project(s) students may choose from among many possibilities offered by the instructors, and may even suggest their own project should they wish to investigate other areas of interest. Each group works on a different project and makes a presentation on the last day of the course. As the course involves an exchange with TU Delft in the Netherlands, students from MSU receive $300 to assist with their air ticket. Often MSU graduate students can cover the rest of their airfare from either their research group, from the College of Natural Science or from the Graduate School. The Delft University of Technology covers hotel costs and offers a per diem of about 20 euros while students visit Delft to participate in the course.
 
 ## Prerequisites
 
@@ -43,7 +43,7 @@ ICCP develops students’ ability to write computer programs for simulating many
 * Understanding of quantum and statistical mechanics at the junior/senior
   undergraduate level
 
-These won't **be** enforced by the instructor, but you'll likely find the course difficult without understanding them.
+These **won't be enforced** by the instructor, but you'll likely find the course difficult without understanding them.
 
 ## Course overview
 
@@ -84,7 +84,7 @@ These won't **be** enforced by the instructor, but you'll likely find the course
 To submit a completed project, simply issue a [pull request](https://help.github.com/articles/creating-a-pull-request/) on the original repository before the due date. Your branch should contain:
 
 1. The source code you developed to solve the problem in the `src/` directory and,
-1. A written report of your findings in the `writeup/` directory, typeset in LaTeX
+1. A written report of your findings in the `report/` directory, typeset in LaTeX
 
 Each project repository contains a skeleton LaTeX file for you to fill in with your report. Your report should follow the style of a research paper (abstract, intro,
 etc.) and should contain about five or six pages. Please remember to include all figures in your submission branch!
@@ -112,7 +112,7 @@ molecular-dynamics/
     ├── molecular_dynamics.f90
     └── parameters.f90
 ```
-Please **do not** include executables or compiled PDFs (we need image PDFs to produce your document, so you should absolutely include them, however!) We will compile both your program and your report on the HPCC, so please test everything there before submitting.
+Please **do not** include executables or compiled PDFs (however we need the PDFs corresponding to your images to produce your document, so you should absolutely include them!) We will compile both your program and your report on the HPCC, so please test everything there before submitting.
 
 ## External links
 
