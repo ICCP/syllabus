@@ -75,7 +75,9 @@ These **won't be enforced** by the instructor, but you'll likely find the course
 ## Grading
 
 * Projects & reports – 75%
-* Final exam (480)/presentation (ICCP) – 25%
+* "Final" - 25% 
+  * Students participating in ICCP give a final presentation at the end of their visit to TU Delft
+  * Otherwise, students have a one-on-one oral examination during finals week
 
 ## Homework/projects
 
