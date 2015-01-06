@@ -75,7 +75,7 @@ These **won't be enforced** by the instructor, but you'll likely find the course
 ## Grading
 
 * Projects & reports – 75%
-* Final exam – 25%
+* Final exam (480)/presentation (ICCP) – 25%
 
 ## Homework/projects
 
