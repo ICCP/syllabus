@@ -5,8 +5,8 @@
 * **TAs:** Connor Glosser ([glosser1@msu.edu](mailto:glosser1@msu.edu)), Jenni Portman ([jenniportman@gmail.com](mailto:jenniportman@gmail.com)) 
 * **Need help?**
   * Open an issue ticket for the project's repository
-  * Virtual office hours
-    * Connor:
+  * Office hours
+    * Connor: Monday, 2pm - 4pm
     * Jenni:
   * Email for 1-on-1 help, or to set up a time to meet
 * **Exchange weeks:**
