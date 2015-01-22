@@ -7,7 +7,7 @@
   * Open an issue ticket for the project's repository
   * Office hours
     * Connor: Monday, 2pm - 4pm
-    * Jenni:
+    * Jenni: Tuesday, 2pm - 4pm
   * Email for 1-on-1 help, or to set up a time to meet
 * **Exchange weeks:**
   * @MSU: February 2 - February 6
