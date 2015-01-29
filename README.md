@@ -67,7 +67,7 @@ These **won't be enforced** by the instructor, but you'll likely find the course
 ### Due dates
 | Project                         | ICCP                     | PHY480                 |
 |---------------------------------|--------------------------|------------------------|
-| Project 0: Ising model          | Friday, January 30, 2014 | TBA                    |
+| Project 0: Ising model          | Friday, January 30, 2014 | Wednesday, February 18, 2014|
 | Project 1: Molecular Dynamics   | Sunday, March 1, 2014    | TBA                    |
 | Project 2: Advanced Monte Carlo | Sunday, March 29, 2014   | TBA                    |
 | Project 3: Students' Choice     | Sunday, May 3, 2014      | TBA                    |
