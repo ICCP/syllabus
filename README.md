@@ -21,6 +21,7 @@
   * [Due dates](#due-dates)
 * [Grading](#grading)
 * [Homework/projects](#homeworkprojects)
+  * [Project info](#projectinfo)
   * [Requirements](#requirements)
   * [Workflow](#workflow)
   * [Submission](#submission)
@@ -80,6 +81,28 @@ These **won't be enforced** by the instructor, but you'll likely find the course
   * Otherwise, students have a one-on-one oral examination during finals week
 
 ## Homework/projects
+
+### Project info
+* Ising model
+  * [Monte Carlo methods I and outline of the Ising model](http://www.pa.msu.edu/~duxbury/courses/phy480/mclecture1.pdf)
+  * [Monte Carlo methods II](http://www.pa.msu.edu/~duxbury/courses/phy480/mclecture2.pdf)
+* Argon molecular dynamics
+  * [Introduction to MD](http://www.pa.msu.edu/~duxbury/courses/phy480/mdlecture1.pdf)
+  * [twoparticles.f90](http://www.pa.msu.edu/~duxbury/courses/phy480/twoparticles.f90)
+  * [fcc.f90](http://www.pa.msu.edu/~duxbury/courses/phy480/fcc.f90)
+  * [jfcc.nb](http://www.pa.msu.edu/~duxbury/courses/phy480/fcc.nb)
+  * [mdlecture2.pdf](http://www.pa.msu.edu/~duxbury/courses/phy480/mdlecture2.pdf)
+* Advanced Monte Carlo methods
+  * [Intro.pdf](http://www.pa.msu.edu/~duxbury/courses/phy480/ICCPProject2.pdf)
+  * [Polymer physics and algorithms review](http://www.pa.msu.edu/~duxbury/courses/phy480/BaschnagelReview2004.pdf)
+  * [Ising Monte Carlo paper](http://www.pa.msu.edu/~duxbury/courses/phy480/WolffAlg.pdf)
+  * [Variational quantum monte carlo notes](http://www.pa.msu.edu/~duxbury/courses/phy480/VarQMC.pdf)
+* Extra project resources
+  * [Summary.pdf](http://www.pa.msu.edu/~duxbury/courses/phy480/Project3_2013.pdf)
+  * [Tight binding info](http://www.pa.msu.edu/~duxbury/courses/phy480/TightBindingProject.pdf)
+  * [Quantum spin chains](http://www.pa.msu.edu/~duxbury/courses/phy480/TISpinChain.pdf)
+  * [Numerical Schrodinger dynamics](http://www.pa.msu.edu/~duxbury/courses/phy480/SchrodingerDynamics.pdf)
+  * [Lattice Boltzmann](http://www.pa.msu.edu/~duxbury/courses/phy480/BGK_handin.PDF)
 
 ### Requirements
 
